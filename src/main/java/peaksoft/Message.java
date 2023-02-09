@@ -1,2 +1,5 @@
-package peaksoft;public interface Mesage {
+package peaksoft;
+
+public interface Message {
+    void getMessage();
 }
